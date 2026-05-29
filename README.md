@@ -1,5 +1,13 @@
 # Keystroke Capture & Logger
 
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Threading](https://img.shields.io/badge/Threads-3-brightgreen?style=flat)
+![pynput](https://img.shields.io/badge/pynput-1.8.2+-informational?style=flat)
+![pygetwindow](https://img.shields.io/badge/pygetwindow-latest-informational?style=flat)
+![Educational](https://img.shields.io/badge/Purpose-Educational-yellow?style=flat)
+![License](https://img.shields.io/badge/License-As--Is-lightgrey?style=flat)
+
 A Python-based keystroke capture tool built for **experimental and educational purposes only**. This project explores threading, queue-based buffering, window tracking, and real-time input processing in Python.
 
 ---
